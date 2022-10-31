@@ -1,0 +1,16 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+#logo {
+    font-size: 48px;
+    color: orange;
+    text-shadow: 2px 2px 2px #fff;
+}
+
+
